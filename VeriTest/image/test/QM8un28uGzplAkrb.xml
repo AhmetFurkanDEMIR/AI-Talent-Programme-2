@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>QM8un28uGzplAkrb.png</filename>
+	<path>/home/demir/Desktop/Tensorflow_Object_Detection/VeriTest/image/test/QM8un28uGzplAkrb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>24</ymin>
+			<xmax>300</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>
