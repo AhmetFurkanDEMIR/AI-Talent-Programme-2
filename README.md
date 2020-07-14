@@ -4,6 +4,8 @@
 
 * Deep Learning Türkiye tarafından başlatılan AI Talent Programme kapsamında anlattığım ikinci sunumum.
 
-* Anlattığım sunumdaki konumuz; TensorFlow Object Detection API
+* Ana konumuz: TensorFlow Object Detection API
+
+* İşlediğimiz konular: Veri Toplama Ve Etiketleme, Nesne Tespiti Teorik Bilgi, Eğitimi Yapılandırma, Modeli Eğitme, Çıkarım Grafiğini Dışa Aktarma ve Test
 
 ![s](https://www.mshowto.org/images/articles/2019/12/tf_logo_social.png)
